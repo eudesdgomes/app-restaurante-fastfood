@@ -19,13 +19,6 @@ O Restaurante FastFood é uma aplicação completa em C# .NET para gerenciamento
 1. Baixe o arquivo *projeto-restaurante.exe*
 2. Execute.
 
-## REQUISITOS DO SISTEMA:
-
-Certifique-se de ter os seguintes requisitos instalados:
-
-1. Visual Studio ou IDE equivalente.
-2. .NET Framework (ou versão mais recente).
-
 ## LICENÇA:
 
 Este projeto está licenciado sob a Licença MIT.
